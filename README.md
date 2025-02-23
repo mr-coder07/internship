@@ -30,7 +30,7 @@ This project explores various aspects of HR analytics, including:
 ## 🛠️ Installation & Setup  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/mr-coder07/project_1.git
+   git clone https://github.com/mr-coder07/internship.git
    cd project_1
    
 2. Install dependencies:  
